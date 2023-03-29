@@ -1,0 +1,33 @@
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+.col-izq{
+    background-color: gray;
+    min-height: 600px;
+
+}
+.colorblanco{
+    color: white;
+    text-decoration: none;
+}
+.colorblanco:hover{
+    color: white;
+}
+.colorblanco:hover .fa-solid{
+    transition: all 1s;
+    transform: rotate(360deg);
+    font-size: 20px;
+}
+.colorblanco:hover .fa-brands{
+    transition: all 1s;
+    transform: rotate(360deg);
+    font-size: 20px;
+}
+.perfil{
+    background-image: url("../img/img/descarga\ \(1\).jfif");
+    background-position: center;
+    
+}
